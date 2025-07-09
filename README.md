@@ -1,1 +1,12 @@
-# Bank-personal-loan-modelling
+ The present research is intended to anticipate mathematically the minimal chance of
+ purchasingpersonal loans fromborrowers. For the research tohit themaingoals, learning
+ algorithms likeKNN,LogisticRegression,NaiveBayes,DecisionTree,RandomForest and
+ SVMwereconsidered.Makestabilityofmodel tobebasedonTestingandReporting,anduse
+ accuracyasabenchmarkprinciple.Accordingtothevalidityofthetestificationdataemployed
+ inmodelingthespecificproblem,randomforestclassifiershowsthehighestaccuracywhereas
+ support vectormachinehas the lowest accuracy incomparisonwithothermodels.Random
+ Forester'saccuracyrate is98.67%,whileK-NN,decisiontree, logisticregressionandNaive
+ Bayesmodels'are90.06%,97.26%,89.86%and89.86%respectively.ThelastresultofSVM
+ performancearetakenintoaccountby89.80%.Thesubsequentdataanalysishasgraduatedthe
+ randomforestdistributionasthemostpowerfulmethodincorrectlypredictingthenumberof
+ peoplewhoaregoingtoqualifyforcreditcards.
